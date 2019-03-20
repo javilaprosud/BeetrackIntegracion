@@ -1,0 +1,10 @@
+C:\Users\Jonathan Avila\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jonathan Avila\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Jonathan Avila\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jonathan Avila\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\BeetrackConsole.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Avila\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\BeetrackConsole.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Avila\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleBeetrack.exe.config
+C:\Users\Jonathan Avila\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleBeetrack.exe
+C:\Users\Jonathan Avila\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleBeetrack.pdb
+C:\Users\Jonathan Avila\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleBeetrack.exe
+C:\Users\Jonathan Avila\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleBeetrack.pdb
